@@ -1,0 +1,12 @@
+{
+  "name": "p1-userinfomanager",
+  "version": "1.0.0",
+  "description": "users can sign up via the own wallet addresses and stores their personal data like name , age and a password users can check if they signed up before or not any user can sign up only one time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

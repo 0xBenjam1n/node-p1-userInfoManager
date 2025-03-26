@@ -1,0 +1,20 @@
+{
+  "user1": {
+    "address": "0x1",
+    "name": "mohammad",
+    "age": "18",
+    "password": "123"
+  },
+  "user2": {
+    "address": "0x2",
+    "name": "mmd",
+    "age": "15",
+    "password": "d1x5"
+  },
+  "user3": {
+    "address": "0x5",
+    "name": "mmd",
+    "age": "15",
+    "password": "132"
+  }
+}
